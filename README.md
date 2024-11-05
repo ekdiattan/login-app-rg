@@ -10,9 +10,13 @@
 ## About Laravel
 
 Laravel  11
+
 Database MySQL
 
 Install :
 - composer install
 - php artisan migrate
 - php artisan serve
+
+Postman
+ - Import file json yang sudah dikirim
